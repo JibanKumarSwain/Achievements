@@ -1,4 +1,6 @@
 // adding a new file
-print(jiban)
-add(print)
-add(more)
+console.log("JIban");
+{
+    console.log(1);
+}
+MediaDeviceInfo()
